@@ -14,6 +14,6 @@ Credit to [rudes](https://github.com/rudes/PokeStrings) for most of the original
 
 ## Modularity
 
-ShionraStringsXX are the base strings.
-ShionraStringsXXitems includes all items renames.
-ShionraStringsXXshiny changes shiny text to ███{00}███.
+ShionraStringsXX are the base strings.\
+ShionraStringsXXitems includes all items renames.\
+ShionraStringsXXshiny changes shiny text to ███{00}███.\
