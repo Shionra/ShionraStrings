@@ -2,7 +2,7 @@
 
 This is my version of [Bill's Strings](https://forums.pokemmo.com/index.php?/topic/161519-custom-string%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AA%F0%9F%87%B8%F0%9F%87%AE%F0%9F%87%B9%F0%9F%87%AB%F0%9F%87%B7%F0%9F%87%A7%F0%9F%87%B7fastergyms-berrys-e4-region-speed-runlast-update-18-02-2024/page/6/#comment-2082881). I also inluded stuff from [caav's Strings](https://github.com/c4vv/caav-strings) and Revz's Strings. Also renamed items for bag organization.
 
-Credit to Bill for the original [Bill's Strings](https://forums.pokemmo.com/index.php?/topic/161519-custom-string%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AA%F0%9F%87%B8%F0%9F%87%AE%F0%9F%87%B9%F0%9F%87%AB%F0%9F%87%B7%F0%9F%87%A7%F0%9F%87%B7fastergyms-berrys-e4-region-speed-runlast-update-18-02-2024/page/6/#comment-2082881).
+Credit to Bill for the original [Bill's Strings](https://forums.pokemmo.com/index.php?/topic/161519-custom-string%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AA%F0%9F%87%B8%F0%9F%87%AE%F0%9F%87%B9%F0%9F%87%AB%F0%9F%87%B7%F0%9F%87%A7%F0%9F%87%B7fastergyms-berrys-e4-region-speed-runlast-update-18-02-2024/page/6/#comment-2082881). **These got updated too, check them out**.
 
 Credit to Revz for the top secret Revz's Strings.
 
